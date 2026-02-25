@@ -9,7 +9,7 @@ This repository serves as a case study for my ongoing professional work as an **
 Due to the proprietary nature of corporate assets, the source code for this project is hosted in a private repository. This document outlines my technical contributions, architectural decisions, and the digital infrastructure I manage for the company.
 
 ## 💻 Tech Stack & Tools
-* **Frontend:** TypeScript, HTML5, CSS3 
+* **Frontend:**  Tailwind CSS, TypeScript, HTML5  
 * **Integrations:** LinkedIn, Instagram
 
 ## 🚀 Key Responsibilities & Achievements
